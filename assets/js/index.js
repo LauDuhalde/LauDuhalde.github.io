@@ -18,3 +18,8 @@ $(document).ready(function () {
   });
 
 });
+
+/*alert de envio - Selector por id
+  $("#enviarMensaje").click(function () {
+    alert("El mensaje fue enviado correctamente.");
+});*/

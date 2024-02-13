@@ -35,8 +35,11 @@ Smooth scroll
 Carrusel
 Grid Layout
 Card
+Button
+Modal
+Tooltip
 
-Iconos Fontawesome:
+##Iconos Fontawesome:
     fa-solid fa-plane
     fa-solid fa-mountain
     fa-solid fa-route

@@ -18,3 +18,8 @@ body {
   text-decoration: none;
   color: white;
 }
+
+/*Selector por id*/
+#enviarMensaje{
+  color: white;
+}
