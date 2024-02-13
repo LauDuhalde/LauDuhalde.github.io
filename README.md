@@ -1,4 +1,5 @@
-#Prueba M2 - Fundamentos del desarrollo front-end: Viajes Chile
+#Prueba M2 - Fundamentos del desarrollo front-end
+##Nombre de proyecto: Viajes Chile
 ##Autor: Laura Duhalde
 ##URL GitHub: https://github.com/LauDuhalde/LauDuhalde.github.io
 
