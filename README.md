@@ -33,4 +33,10 @@ Popper 2.11.8
 Navbar
 Smooth scroll
 Carrusel
+Grid Layout
+Iconos Fontawesome:
+    fa-solid fa-plane
+    fa-solid fa-mountain
+    fa-solid fa-route
+
 
