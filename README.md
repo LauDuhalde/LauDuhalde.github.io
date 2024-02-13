@@ -34,6 +34,8 @@ Navbar
 Smooth scroll
 Carrusel
 Grid Layout
+Card
+
 Iconos Fontawesome:
     fa-solid fa-plane
     fa-solid fa-mountain
