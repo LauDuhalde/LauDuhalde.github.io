@@ -2,6 +2,7 @@
 ##Nombre de proyecto: Viajes Chile
 ##Autor: Laura Duhalde
 ##URL GitHub: https://github.com/LauDuhalde/LauDuhalde.github.io
+##URL GitHub Pages: https://lauduhalde.github.io/
 
 ##Estructura de archivos
 viajesChile/
@@ -31,3 +32,5 @@ Popper 2.11.8
 ##Componentes utilizados
 Navbar
 Smooth scroll
+Carrusel
+
