@@ -38,5 +38,9 @@ Iconos Fontawesome:
     fa-solid fa-plane
     fa-solid fa-mountain
     fa-solid fa-route
+    fa-brands fa-square-github
+    fa-brands fa-linkedin
+    fa-brands fa-square-twitter
+    fa-brands fa-square-facebook
 
 
